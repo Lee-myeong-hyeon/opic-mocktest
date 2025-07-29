@@ -36,20 +36,18 @@ Edit
 ## 🚀 실행 방법 (로컬 개발)
 
 #### 1. 저장소 클론
-```bash
+``` bash
 git clone https://github.com/Lee-myeong-hyeon/opic-mocktest.git
 cd opic-mocktest
 ```
 #### 의존성 설치
-```bash
-bash
+``` bash
 Copy
 Edit
 npm install
 ```
 #### 개발 서버 실행
-```bash
-bash
+``` bash
 Copy
 Edit
 npm run dev
