@@ -38,24 +38,24 @@ Edit
 1. 저장소 클론  
 
 ```bash
-git clone https://github.com/Lee-myeong-hyeon/opic-mocktest.git  
-cd opic-mocktest  
-의존성 설치  
+git clone https://github.com/Lee-myeong-hyeon/opic-mocktest.git
+cd opic-mocktest
+의존성 설치
 
-bash  
-Copy  
-Edit  
-npm install  
-개발 서버 실행  
+bash
+Copy
+Edit
+npm install
+개발 서버 실행
 
-bash  
-Copy  
-Edit  
-npm run dev  
-브라우저에서 확인  
+bash
+Copy
+Edit
+npm run dev
+브라우저에서 확인
 http://localhost:5173 로 접속
 
-🧩 주요 기능  
+🧩 주요 기능
 OPIc 설문 기반 맞춤형 질문 시스템
 
 React Router를 활용한 화면 구성
@@ -66,7 +66,7 @@ React Router를 활용한 화면 구성
 
 향후 API 연동과 사용자 인증 구조까지 확장 가능
 
-🛠 사용 기술  
+🛠 사용 기술
 React 18: 컴포넌트 기반 UI 구축
 
 Vite: 빠른 번들링과 핫 리로딩 제공
@@ -77,7 +77,7 @@ JSON: 데이터 관리 포맷
 
 (예정) Web Audio API, Firebase
 
-🗓️ 향후 계획  
+🗓️ 향후 계획
 🎤 녹음 기능 추가 (Web Audio API)
 
 🧠 AI 기반 피드백 기능 (감정 분석, 정확도 평가 등)
@@ -86,10 +86,10 @@ JSON: 데이터 관리 포맷
 
 📊 통계 페이지 (응답 히스토리 시각화)
 
-👤 개발자 정보  
-이명현 (Lee Myeong-hyeon)  
-부산대학교 생명융합공학과 / 데이터사이언스 전공  
-📧 Email: [본인의 이메일 입력]  
+👤 개발자 정보
+이명현 (Lee Myeong-hyeon)
+부산대학교 생명융합공학과 / 데이터사이언스 전공
+📧 Email: [본인의 이메일 입력]
 🔗 GitHub: https://github.com/Lee-myeong-hyeon  
 
 이 프로젝트는 비영리 목적의 교육용 플랫폼입니다.
